@@ -29,9 +29,10 @@
   font-style: normal;
 }
 /* General */
-/*html {
+html {
   font-size: 1em;
-}*/
+  font-family: 'Roboto', sans-serif;
+}
 body {
   font: 1em 'Source Sans Pro';
   margin: 0;
