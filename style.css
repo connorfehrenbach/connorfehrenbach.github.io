@@ -1,64 +1,64 @@
 @font-face {
-  font-family: "Lazer";
-  src: url("https://cdn.rawgit.com/connorfehrenbach/connorfehrenbach.github.io/de70542f/Fonts/Lazer84.ttf") format('truetype');
+    font-family: "Lazer";
+    src: url("https://cdn.rawgit.com/connorfehrenbach/connorfehrenbach.github.io/de70542f/Fonts/Lazer84.ttf") format('truetype');
 }
 
 html {
-  height: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background: linear-gradient(to top, #1c122d, #271f4e);
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background: linear-gradient(to top, #1c122d, #271f4e);
 }
 
 
 /*-- VHS Style "PLAY" Text--*/
 
 .VHSPLAY {
-  position: absolute;
-  font-family: 'font121444';
-  font-size: 25px;
-  color: white;
-  right: 0;
-  bottom: 0;
-  left: 5%;
-  top: 0px;
+    position: absolute;
+    font-family: 'font121444';
+    font-size: 25px;
+    color: white;
+    right: 0;
+    bottom: 0;
+    left: 5%;
+    top: 0px;
 }
 
 
 /*-- "Connor F." Main Text --*/
 
 .MAIN {
-  overflow:hidden;
-  position: fixed;
-  margin: auto;
-  text-align: center;
-  font-family: 'Lazer';
-  font-size: 150px;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  top: 25%;
-  color: #f40179;
-  background-image: -webkit-linear-gradient(top, #f07339 25%, #de327d, #c31946);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-size: 100% 155px;
-  background-repeat: no-repeat;
-  background-position: 0px 10px;
+    overflow: hidden;
+    position: fixed;
+    margin: auto;
+    text-align: center;
+    font-family: 'Lazer';
+    font-size: 150px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 25%;
+    color: #f40179;
+    background-image: -webkit-linear-gradient(top, #f07339 25%, #de327d, #c31946);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 100% 155px;
+    background-repeat: no-repeat;
+    background-position: 0px 10px;
 }
 
 
 /*-- "Connor F." Main Text Drop Shadow --*/
 
 #dropshadow {
-  position: fixed;
-  margin: auto;
-  text-align: center;
-  font-family: 'Lazer';
-  font-size: 150px;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  top: 25%;
-  text-shadow: 3px 3px 3px #685eb7;
+    position: fixed;
+    margin: auto;
+    text-align: center;
+    font-family: 'Lazer';
+    font-size: 150px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 25%;
+    text-shadow: 3px 3px 3px #685eb7;
 }
