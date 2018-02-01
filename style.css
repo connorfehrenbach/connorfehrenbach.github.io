@@ -3,6 +3,11 @@
     src: url("https://cdn.rawgit.com/connorfehrenbach/connorfehrenbach.github.io/de70542f/Fonts/Lazer84.ttf") format('truetype');
 }
 
+@font-face {
+    font-family: "VHS";
+    src: url("https://cdn.rawgit.com/connorfehrenbach/connorfehrenbach.github.io/cd10c0a5/Fonts/Lazer84.ttf") format('truetype');
+}
+
 html {
     height: 100%;
     background-size: cover;
@@ -15,7 +20,7 @@ html {
 
 .VHSPLAY {
     position: absolute;
-    font-family: 'font121444';
+    font-family: 'VHS';
     font-size: 25px;
     color: white;
     right: 0;
